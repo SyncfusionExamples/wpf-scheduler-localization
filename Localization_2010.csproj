@@ -100,6 +100,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Syncfusion.SfScheduler.WPF.fr-FR.resx" />
     <EmbeddedResource Include="Resources\Syncfusion.SfScheduler.WPF.resx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
