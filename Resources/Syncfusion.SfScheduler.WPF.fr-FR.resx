@@ -122,7 +122,7 @@
     <comment>Text for AddReminder</comment>
   </data>
   <data name="Alert" xml:space="preserve">
-    <value>alerte</value>
+    <value>Alerte</value>
     <comment>Text for Alert</comment>
   </data>
   <data name="AllDay" xml:space="preserve">
@@ -130,11 +130,11 @@
     <comment>Text for All Day</comment>
   </data>
   <data name="April" xml:space="preserve">
-    <value>avril</value>
+    <value>Avril</value>
     <comment>Text for April</comment>
   </data>
   <data name="August" xml:space="preserve">
-    <value>août</value>
+    <value>Août</value>
     <comment>Text for August</comment>
   </data>
   <data name="Cancel" xml:space="preserve">
@@ -142,7 +142,7 @@
     <comment>Content for Cancel button</comment>
   </data>
   <data name="ClickSnooze" xml:space="preserve">
-    <value>Cliquez sur Répéter</value>
+    <value>Cliquer sur répéter</value>
     <comment>Text for Click Snooze</comment>
   </data>
   <data name="Count" xml:space="preserve">
@@ -150,23 +150,23 @@
     <comment>Text for Count</comment>
   </data>
   <data name="Daily" xml:space="preserve">
-    <value>du quotidien</value>
+    <value>Quotidien</value>
     <comment>Text for Daily</comment>
   </data>
   <data name="Day" xml:space="preserve">
-    <value>journée</value>
+    <value>Jour</value>
     <comment>Text for Day</comment>
   </data>
   <data name="Days" xml:space="preserve">
-    <value>Journées)</value>
+    <value>Jours</value>
     <comment>Text for Day(s)</comment>
   </data>
   <data name="DaysIntervalTypeReminder" xml:space="preserve">
-    <value>journées</value>
+    <value>Intervalle de jours pour le rappel</value>
     <comment>Text for Days</comment>
   </data>
   <data name="December" xml:space="preserve">
-    <value>décembre</value>
+    <value>Décembre</value>
     <comment>Text for December</comment>
   </data>
   <data name="Delete" xml:space="preserve">
@@ -174,31 +174,31 @@
     <comment>Content for Delete button</comment>
   </data>
   <data name="DeleteOccurrence" xml:space="preserve">
-    <value>Supprimer cette occurrence</value>
+    <value>Supprimer l'occurrence</value>
     <comment>Content for single radio button that is displayed when delete recurring appointment</comment>
   </data>
   <data name="DeleteRecurringDialogContent" xml:space="preserve">
-    <value>Voulez-vous supprimer toutes les occurrences du rendez-vous récurrent [], ou seulement celui-ci?</value>
+    <value>Supprimer le contenu récurrent du dialogue</value>
     <comment>'[]' replaced by selected appointemnt subject</comment>
   </data>
   <data name="DeleteRecurringDialogHeader" xml:space="preserve">
-    <value>Confirmation de la suppression</value>
+    <value>Supprimer l'en-tête du dialogue récurrent</value>
     <comment>Title content of dialog that is displayed when deleting a recurring appointment.</comment>
   </data>
   <data name="DeleteSeries" xml:space="preserve">
-    <value>Supprimer cette série</value>
+    <value>Supprimer la série</value>
     <comment>Content for series radio button that is displayed when delete recurring appointment</comment>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>La description</value>
+    <value>Description</value>
     <comment>Text for Description</comment>
   </data>
   <data name="DismissAll" xml:space="preserve">
-    <value>Rejeter la totalité</value>
+    <value>Tout rejeter</value>
     <comment>Text for DismissAll</comment>
   </data>
   <data name="EditEventTitle" xml:space="preserve">
-    <value>Modifier l'événement</value>
+    <value>Modifier le titre de l'événement</value>
     <comment>Text for Edit Event</comment>
   </data>
   <data name="EditRecurringDialogContent" xml:space="preserve">
@@ -206,11 +206,11 @@
     <comment>Edit confirmation dialog content that is displayed when editing a recurring appointment</comment>
   </data>
   <data name="EditRecurringDialogHeader" xml:space="preserve">
-    <value>Ouvrir un élément récurrent</value>
+    <value>Modifier l'en-tête du dialogue récurrent</value>
     <comment>Title content of dialog that is displayed when Editing a recurring appointment.</comment>
   </data>
   <data name="EmptyAppointmentSubject" xml:space="preserve">
-    <value>Pas de titre</value>
+    <value>Sujet de rendez-vous vide</value>
     <comment>Text for empty appointment subject</comment>
   </data>
   <data name="End" xml:space="preserve">
@@ -218,15 +218,15 @@
     <comment>Text for End</comment>
   </data>
   <data name="EndTimezone" xml:space="preserve">
-    <value>Fin du fuseau horaire</value>
+    <value>Fuseau horaire de fin</value>
     <comment>Text for End Timezone</comment>
   </data>
   <data name="February" xml:space="preserve">
-    <value>février</value>
+    <value>Février</value>
     <comment>Text for February</comment>
   </data>
   <data name="First" xml:space="preserve">
-    <value>Première</value>
+    <value>Premier</value>
     <comment>Text for First</comment>
   </data>
   <data name="Fourth" xml:space="preserve">
@@ -242,35 +242,35 @@
     <comment>Text for Hour</comment>
   </data>
   <data name="HoursIntervalTypeReminder" xml:space="preserve">
-    <value>Heures</value>
+    <value>Intervalle d'heures pour le rappel</value>
     <comment>Text for Hours</comment>
   </data>
   <data name="InValidEndTimeMessageAlert" xml:space="preserve">
-    <value>La date de fin que vous avez entrée se produit avant la date de début.</value>
+    <value>Alerte de message de fin non valide</value>
     <comment>Message alert for invalid end time</comment>
   </data>
   <data name="InvalidOccurrenceEditingMessageAlert" xml:space="preserve">
-    <value>Deux occurrences de [] ne peuvent pas se produire le même jour.</value>
+    <value>Alerte de message d'édition d'occurrence non valide</value>
     <comment>'[]' replaced by selected appointemnt subject</comment>
   </data>
   <data name="January" xml:space="preserve">
-    <value>janvier</value>
+    <value>Janvier</value>
     <comment>Text for January</comment>
   </data>
   <data name="July" xml:space="preserve">
-    <value>juillet</value>
+    <value>Juillet</value>
     <comment>Text for July</comment>
   </data>
   <data name="June" xml:space="preserve">
-    <value>juin</value>
+    <value>Juin</value>
     <comment>Text for June</comment>
   </data>
   <data name="JustThisOne" xml:space="preserve">
-    <value>Juste celui-là</value>
+    <value>Seulement celle-ci</value>
     <comment>Content for Single radio button that is displayed when edit recurring appointment</comment>
   </data>
   <data name="Last" xml:space="preserve">
-    <value>Dernière</value>
+    <value>Dernier</value>
     <comment>Text for Last</comment>
   </data>
   <data name="Location" xml:space="preserve">
@@ -290,7 +290,7 @@
     <comment>Text for Minutes</comment>
   </data>
   <data name="MinutesIntervalTypeReminder" xml:space="preserve">
-    <value>Minutes</value>
+    <value>Intervalle de minutes pour le rappel</value>
     <comment>Text for Minutes</comment>
   </data>
   <data name="Monday" xml:space="preserve">
@@ -298,11 +298,11 @@
     <comment>Text for Monday</comment>
   </data>
   <data name="Monthly" xml:space="preserve">
-    <value>Mensuelle</value>
+    <value>Mensuel</value>
     <comment>Text for Monthly</comment>
   </data>
   <data name="Months" xml:space="preserve">
-    <value>Mois)</value>
+    <value>Mois</value>
     <comment>Text for Month(s)</comment>
   </data>
   <data name="More" xml:space="preserve">
@@ -314,7 +314,7 @@
     <comment>Text for Never</comment>
   </data>
   <data name="NewEvent" xml:space="preserve">
-    <value>Nouvel évènement</value>
+    <value>Nouvel événement</value>
     <comment>Title for Editor UI when create new appointment</comment>
   </data>
   <data name="NoDateSelected" xml:space="preserve">
@@ -322,23 +322,23 @@
     <comment>Text for No Date Selected</comment>
   </data>
   <data name="NoEvents" xml:space="preserve">
-    <value>Pas d'événements</value>
+    <value>Aucun événement</value>
     <comment>Text for No Events</comment>
   </data>
   <data name="November" xml:space="preserve">
-    <value>novembre</value>
+    <value>Novembre</value>
     <comment>Text for November</comment>
   </data>
   <data name="October" xml:space="preserve">
-    <value>octobre</value>
+    <value>Octobre</value>
     <comment>Text for October</comment>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>D'accord</value>
+    <value>Ok</value>
     <comment>Content for Ok button that is displayed when edit/delete recurring appointment</comment>
   </data>
   <data name="OutRangeOccurrencedEditingMessageAlert" xml:space="preserve">
-    <value>Impossible de replanifier une occurrence du rendez-vous récurrent [] s'il ignore une occurrence ultérieure du même rendez-vous.</value>
+    <value>Alerte de message d'édition d'occurrence hors plage</value>
     <comment>[]' replaced by selected appointemnt subject</comment>
   </data>
   <data name="Reminder" xml:space="preserve">
@@ -354,35 +354,35 @@
     <comment>Text for Repeat</comment>
   </data>
   <data name="RepeatEvery" xml:space="preserve">
-    <value>Répétez tous les</value>
+    <value>Répéter chaque</value>
     <comment>Text for Repeat Every</comment>
   </data>
   <data name="RepeatOn" xml:space="preserve">
-    <value>Répéter sur</value>
+    <value>Répéter le</value>
     <comment>Text for Repeat On</comment>
   </data>
   <data name="Resource" xml:space="preserve">
-    <value>Ressources</value>
+    <value>Ressource</value>
     <comment>Text for Resource(s)</comment>
   </data>
   <data name="Saturday" xml:space="preserve">
-    <value>samedi</value>
+    <value>Samedi</value>
     <comment>Text for Saturday</comment>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>sauver</value>
+    <value>Enregistrer</value>
     <comment>Text for Save</comment>
   </data>
   <data name="Second" xml:space="preserve">
-    <value>Seconde</value>
+    <value>Deuxième</value>
     <comment>Text for Second</comment>
   </data>
   <data name="September" xml:space="preserve">
-    <value>septembre</value>
+    <value>Septembre</value>
     <comment>Text for September</comment>
   </data>
   <data name="Snooze" xml:space="preserve">
-    <value>Roupillon</value>
+    <value>Répéter</value>
     <comment>Text for Snooze</comment>
   </data>
   <data name="Start" xml:space="preserve">
@@ -390,11 +390,11 @@
     <comment>Text for Start</comment>
   </data>
   <data name="StartTimeZone" xml:space="preserve">
-    <value>Démarrer le fuseau horaire</value>
+    <value>Fuseau horaire de début</value>
     <comment>Text for Start Timezone</comment>
   </data>
   <data name="Sunday" xml:space="preserve">
-    <value>dimanche</value>
+    <value>Dimanche</value>
     <comment>Text for Sunday</comment>
   </data>
   <data name="TheEntireSeries" xml:space="preserve">
@@ -434,15 +434,15 @@
     <comment>Text for Weekly</comment>
   </data>
   <data name="Weeks" xml:space="preserve">
-    <value>Semaines)</value>
+    <value>Semaines</value>
     <comment>Text for Week(s)</comment>
   </data>
   <data name="Yearly" xml:space="preserve">
-    <value>Annuelle</value>
+    <value>Annuel</value>
     <comment>Text for Yearly</comment>
   </data>
   <data name="Years" xml:space="preserve">
-    <value>Années)</value>
+    <value>Années</value>
     <comment>Text for Year(s)</comment>
   </data>
 </root>
