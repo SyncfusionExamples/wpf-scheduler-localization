@@ -242,15 +242,15 @@
     <comment>Text for Hour</comment>
   </data>
   <data name="HoursIntervalTypeReminder" xml:space="preserve">
-    <value>Intervalle d'heures pour le rappel</value>
+    <value>Rappel avec intervalle d’heures</value>
     <comment>Text for Hours</comment>
   </data>
   <data name="InValidEndTimeMessageAlert" xml:space="preserve">
-    <value>Alerte de message : heure de fin non valide</value>
+    <value>Alerte d'heure de fin non valide</value>
     <comment>Message alert for invalid end time</comment>
   </data>
   <data name="InvalidOccurrenceEditingMessageAlert" xml:space="preserve">
-    <value>Alerte de message : édition d'occurrence non valide</value>
+    <value>Alerte de message de modification d'occurrence invalide</value>
     <comment>'[]' replaced by selected appointemnt subject</comment>
   </data>
   <data name="January" xml:space="preserve">
@@ -290,7 +290,7 @@
     <comment>Text for Minutes</comment>
   </data>
   <data name="MinutesIntervalTypeReminder" xml:space="preserve">
-    <value>Intervalle de minutes pour le rappel</value>
+    <value>Rappel avec intervalle de minutes</value>
     <comment>Text for Minutes</comment>
   </data>
   <data name="Monday" xml:space="preserve">
@@ -338,7 +338,7 @@
     <comment>Content for Ok button that is displayed when edit/delete recurring appointment</comment>
   </data>
   <data name="OutRangeOccurrencedEditingMessageAlert" xml:space="preserve">
-    <value>Alerte de message : occurrence hors de la plage</value>
+    <value>Alerte de message de modification d'occurrence hors de portée</value>
     <comment>[]' replaced by selected appointemnt subject</comment>
   </data>
   <data name="Reminder" xml:space="preserve">
