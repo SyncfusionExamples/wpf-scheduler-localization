@@ -246,11 +246,11 @@
     <comment>Text for Hours</comment>
   </data>
   <data name="InValidEndTimeMessageAlert" xml:space="preserve">
-    <value>Alerte de message de fin non valide</value>
+    <value>Alerte de message : heure de fin non valide</value>
     <comment>Message alert for invalid end time</comment>
   </data>
   <data name="InvalidOccurrenceEditingMessageAlert" xml:space="preserve">
-    <value>Alerte de message d'édition d'occurrence non valide</value>
+    <value>Alerte de message : édition d'occurrence non valide</value>
     <comment>'[]' replaced by selected appointemnt subject</comment>
   </data>
   <data name="January" xml:space="preserve">
@@ -338,7 +338,7 @@
     <comment>Content for Ok button that is displayed when edit/delete recurring appointment</comment>
   </data>
   <data name="OutRangeOccurrencedEditingMessageAlert" xml:space="preserve">
-    <value>Alerte de message d'édition d'occurrence hors plage</value>
+    <value>Alerte de message : occurrence hors de la plage</value>
     <comment>[]' replaced by selected appointemnt subject</comment>
   </data>
   <data name="Reminder" xml:space="preserve">
@@ -374,7 +374,7 @@
     <comment>Text for Save</comment>
   </data>
   <data name="Second" xml:space="preserve">
-    <value>Deuxième</value>
+    <value>Seconde</value>
     <comment>Text for Second</comment>
   </data>
   <data name="September" xml:space="preserve">
